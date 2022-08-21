@@ -1,0 +1,24 @@
+kerjakan revisi belakangan jika sluruh halaman (7 halaman) telah dibuat.
+
+halaman index:
+- section company buat menjadi tab, tab satu "internal", tab dua "eksternal" (contoh bisa dilihat di: https://getbootstrap.com/docs/4.6/components/navs/#javascript-behavior)
+- redesign footer (dipersilahkan untuk menambah menu, kontak, logo dan deskripsinya, dll pada footer jika memang diperlukan agar terlihat bagus)
+- tambahkan mega menu
+- faq bug pada desktop, jika melihat pertanyaan pada sisi kiri maka sisi kanan terbuka juga harusnya tidak ikut terbuka.
+
+halaman news:
+- tambah simbol << dan >> pada pagination
+- perkecil kolom sidebar
+- perkecil widget agenda/kalender
+- latest update buat jadi tab, tab satu "latest update", tab dua "popular" (contoh bisa dilihat pada link bootstrap diatas)
+
+halaman news detail:
+- beri breadcrumb karena halaman news ada breadcrumbnya
+- beri akses next news dan prev news
+
+revisi secara keseluruhan:
+- konsistensi
+- jika suatu link maka jadikan tag a (link). contoh pada halaman search tidak ada tag a untuk masuk ke detail news yang dicari
+- jika suatu form maka tambahkan tag form. contoh pada komponen search tidak ada tag form.
+- animasi atau suatu perbedaan ketika hover link, button, dan lainnya
+- scroll halaman hilang pada desktop
