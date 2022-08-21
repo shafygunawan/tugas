@@ -1,4 +1,4 @@
-componen yang dibuat dalam page:
+componen yang dibuat dalam page (page harus support/desain tidak rusak jika diberi komponen berikut):
 1. table
 2. heding style
 3. image
@@ -6,3 +6,6 @@ componen yang dibuat dalam page:
 5. 2 column or more
 6. button
 7. link
+
+halaman page hanya membuat wadah untuk konten-konten dan support komponen diatas.
+ketika komponen diatas ditambahkan oleh pemilik ke halaman page, halaman tersebut tidak rusak
