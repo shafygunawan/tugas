@@ -1,0 +1,8 @@
+componen yang dibuat dalam page:
+1. table
+2. heding style
+3. image
+4. list
+5. 2 column or more
+6. button
+7. link
