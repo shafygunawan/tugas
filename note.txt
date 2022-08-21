@@ -9,3 +9,6 @@ componen yang dibuat dalam page (page harus support/desain tidak rusak jika dibe
 
 halaman page hanya membuat wadah untuk konten-konten dan support komponen diatas.
 ketika komponen diatas ditambahkan oleh pemilik ke halaman page, halaman tersebut tidak rusak
+
+* untuk pembayaran halaman yg slesai dipending dulu skarang hari libur soalnya ditambah
+mereka masih mereview yg dibuat
