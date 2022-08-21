@@ -11,4 +11,4 @@ halaman page hanya membuat wadah untuk konten-konten dan support komponen diatas
 ketika komponen diatas ditambahkan oleh pemilik ke halaman page, halaman tersebut tidak rusak
 
 * untuk pembayaran halaman yg slesai dipending dulu skarang hari libur soalnya ditambah
-mereka masih mereview yg dibuat
+mereka masih mereview yg dibuat. semakin bagus semakin mudah untuk dicairkan.
